@@ -2,7 +2,7 @@
 
 Standard text input control for Power Apps model driven apps. Built as part of [this](https://ryanspain.net/posts/build-a-pcf-text-control/) blog post.
 
-![Text input control](img\preview.gif)
+![Text input control](img\preview.gif?raw=true)
 
 ## Build the PCF control
 
