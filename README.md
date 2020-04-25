@@ -1,4 +1,4 @@
-# PCF Text Control Input
+# PCF Text Input Control
 
 Standard text input control for Power Apps model driven apps. Built as part of [this](https://ryanspain.net/posts/build-a-pcf-text-control/) blog post.
 
@@ -6,7 +6,7 @@ Standard text input control for Power Apps model driven apps. Built as part of [
 
 ## Build the PCF control
 
-Install the required NPM packages, and build the control by executing the following command from **📁src/project**.
+Install the required NPM packages, and build the control by executing the following commands from **📁src/project**.
 
 ```cmd
 npm install
