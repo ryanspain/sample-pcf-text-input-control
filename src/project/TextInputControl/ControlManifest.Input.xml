@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <manifest>
-  <control namespace="RyanSpain.NET" constructor="TextInputControl" version="0.2.1" display-name-key="Text Input Control" description-key="Standard text input control" control-type="standard">
+  <control namespace="RyanSpain.NET" constructor="TextInputControl" version="1.2.0.0" display-name-key="Text Input Control" description-key="Standard text input control" control-type="standard">
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
     <property name="inputValue" display-name-key="Input" description-key="Text input of field" of-type="SingleLine.Text" usage="bound" required="true" />
     <!-- 
